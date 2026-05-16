@@ -1,0 +1,11 @@
+Django
+djangorestframework
+django-environ
+django-celery-results
+celery
+redis
+psycopg2-binary
+gunicorn
+requests
+pandas
+kagglehub
